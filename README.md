@@ -59,23 +59,7 @@ Hackerrank
 
 Canva / Presentation tools
 
-🚀 Projects
 
-🌾 KrishiSahayk – AI Powered Smart Crop Advisory System
-
-An AI-based solution designed to reduce farming uncertainties for small and marginal farmers.
-
-Key Features:
-
-🌦 Real-time weather analysis
-
-💧 Irrigation suggestions based on weather conditions
-
-🌱 Smart crop advisory system
-
-📊 Data-driven farming decisions
-
-Goal: Help farmers make better agricultural decisions using AI.
 
 🚀 Projects
 
